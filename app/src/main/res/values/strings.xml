@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TresEnRaya</string>
+    <string name="jugador1">Jugador 1</string>
+    <string name="jugador2">Jugador 2</string>
 </resources>
