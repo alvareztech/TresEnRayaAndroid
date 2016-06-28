@@ -41,21 +41,21 @@
             android:id="@+id/unoButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar1"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/dosButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar2"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/tresButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar3"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
     </LinearLayout>
@@ -70,21 +70,21 @@
             android:id="@+id/cuatroButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar4"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/cincoButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar5"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/seisButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar6"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
     </LinearLayout>
@@ -99,21 +99,21 @@
             android:id="@+id/sieteButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar7"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/ochoButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar8"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
         <Button
             android:id="@+id/nueveButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:onClick="presionar9"
+            android:onClick="seleccionar"
             android:textSize="50sp" />
 
     </LinearLayout>
